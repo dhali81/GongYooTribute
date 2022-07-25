@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <link rel="stylesheet" href="styles.css">
+  <main id="main">
+          <div id="title">
+    <b><h2>Gong Yoo</b></h2>
+            </div>
+            <figure id="img-div">
+<img src="https://s.yimg.com/ny/api/res/1.2/uprX47mFpJEUwgWflxZtqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTY0MA--/https://s.yimg.com/os/creatr-uploaded-images/2022-07/6bb72ce0-f8f7-11ec-8eee-cc5a22047dae" alt="Gong Yoo in black turtleneck" id="image">
+<figcaption id="img-caption">Gong Yoo is the new ambassador of Tom Ford Beauty</figcaption>
+            </figure>
+            <div id="info">
+            <div id="tribute-info">
+             <p>Gong Ji-cheol (Korean: 공지철; born July 10, 1979), better known by his stage name Gong Yoo (Korean: 공유), is a South Korean actor. He is best known for his roles in the television dramas Coffee Prince (2007), Guardian: The Lonely and Great God (2016–2017), The Silent Sea (2021), and Squid Game (2021), and the films Silenced (2011), Train to Busan (2016) and The Age of Shadows (2016).</p>
+              
+              <a href="https://en.wikipedia.org/wiki/Gong_Yoo" id="tribute-link" target="_blank"></a>
+              </div>
+              </div>
+          </div>
+         </main>
+</html>
+
+
+_____________________
+
+
+body {
+  background-color: #F6E3C5;
+  font-family: helvetica, sans-serif; 
+}
+
+h2 {text-align: center;
+font-size: 35px;
+}
+
+
+
+img { display: block;
+max-width: 100%;
+height: auto;
+margin-right: auto;
+margin-left: auto;
+border-top: 35%;
+border-bottom: 35%;}
